@@ -1,29 +1,27 @@
 # 博客系统
 
 
-### 有问题，或者需要协助调试运行项目的, 可以加QQ：2529519551，或者微信 ：xzxj0206 注明项目，“git+项目名称” ，如：“git学生宿舍管理系统”
-
 ### 更多项目： https://github.com/34426?tab=repositories
 
+### 一、项目介绍
 
+语言：java
 
-## 一、项目介绍
+运行工具：idea或eclipse vscode 数据库：mysql
 
-基于SpringBoot Java MyBatis MySQL JQuery html实现的博客网站
+基于SpringBoot MyBatis JQuery html实现的博客网站
 
-博客网站 游客可以浏览文章， 游客可以登录注册成用户，发布文章 管理自己的文章，评论和回复，点赞评论回复文章等 管理员可以对整个系统用户管理，文章管理，分类管理，角色权限管理，评论管理等等
+博客网站 
 
-## 二、系统运行界面
+三个角色：游客 用户 管理员
 
-![img_1.png](imgs/img_1.png)
+游客可以浏览文章， 游客可以登录注册成用户，发布文章 管理自己的文章，评论和回复，点赞评论回复文章等 
 
-## 三、系统部分功能界面展示
+管理员可以对整个系统用户管理，文章管理，分类管理，角色权限管理，评论管理等等
+
+### 二、系统部分功能界面展示
 
 ![img_2.png](imgs/img_2.png)
-
-![img_3.png](imgs/img_3.png)
-
-![img_4.png](imgs/img_4.png)
 
 ![img_5.png](imgs/img_5.png)
 
@@ -31,10 +29,11 @@
 
 ![img_7.png](imgs/img_7.png)
 
-![img_8.png](imgs/img_8.png)
-
-![img_9.png](imgs/img_9.png)
-
 ![img_10.png](imgs/img_10.png)
 
 ![img_11.png](imgs/img_11.png)
+
+### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
+### 有问题，或者需要协助调试运行项目的也可联系
+
+![img.png](imgs/img.png)
